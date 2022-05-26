@@ -2,8 +2,8 @@
 ## Contact Ways
 E-mail: linbotaohit@gmail.com
 
-<img src="E:\LBT_Lab\BotaoHomepage\images\hitszEve.png" alt="loading" />
-[HITsz]("E:\LBT_Lab\BotaoHomepage\images\hitszEve.png")
+[HITsz]("ImagesforHomepage\HITszEve.png"/)
+
 You can use the [editor on GitHub](https://github.com/Botaolin/botaolin.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
