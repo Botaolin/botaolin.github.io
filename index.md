@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to LinBotao's Homepage!
+## Contact Ways
+E-mail: linbotaohit@gmail.com
 
 You can use the [editor on GitHub](https://github.com/Botaolin/botaolin.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
