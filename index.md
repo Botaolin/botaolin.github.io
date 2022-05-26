@@ -2,7 +2,7 @@
 ## Contact Ways
 E-mail: linbotaohit@gmail.com
 
-[HITsz]("ImagesforHomepage\HITszEve.png"/)
+[HITsz]("https://github.com/Botaolin/botaolin.github.io/blob/main/ImagesforHomepage/HITszEve.png")
 
 You can use the [editor on GitHub](https://github.com/Botaolin/botaolin.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
