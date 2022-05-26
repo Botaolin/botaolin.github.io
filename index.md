@@ -29,9 +29,8 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-[HITsz](https://github.com/Botaolin/botaolin.github.io/ImagesforHomepage/HITszEve.png)
+[HITsz](https://raw.githubusercontent.com/Botaolin/botaolin.github.io/ImagesforHomepage/HITszEve.png)
 
-[HITSZ](https://github.com/Botaolin/botaolin.github.io/blob/main/ImagesforHomepage/HITszEve.png)
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
